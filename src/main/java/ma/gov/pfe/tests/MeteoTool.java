@@ -1,4 +1,4 @@
-package ma.gov.pfe.tests.meteo;
+package ma.gov.pfe.tests;
 
 import dev.langchain4j.agent.tool.Tool;
 
